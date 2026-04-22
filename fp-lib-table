@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library-huellas-UCC")(type "KiCad")(uri "${KIPRJMOD}/Library-huellas-UCC.pretty")(options "")(descr ""))
+)

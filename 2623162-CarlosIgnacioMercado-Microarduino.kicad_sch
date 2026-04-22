@@ -3193,7 +3193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MELF_Handsoldering"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 43.18 72.39 0)
 			(effects
 				(font
